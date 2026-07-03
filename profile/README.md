@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A [platform](https://simtropolis.ai/) to enable every company in the world to build more human and interactive customer experiences using natural language and autonomous AI agents.
+Building a game development harness for world models. A cross-platform application for creating 2D and 3D games from a unified interface (Zed + Godot-inspired).
 
 <!--
 
