@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-Building a game development harness for world models. A cross-platform application for creating 2D and 3D games from a unified interface (Zed + Godot-inspired).
+Building a harness for image, video and world models. A cross-platform application from a unified interface (Zed + Godot-inspired) for gaming, VFX, animation, creative arts, advertising, eCommerce and much more.
 
