@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-Building a high-performance, multiplayer harness for image, video and world models. A cross-platform application from a unified interface (Zed + Godot-inspired) for gaming, VFX, animation, creative arts, advertising, eCommerce and much more.
+Multiplayer Agentic Development Environment. Focused development environments from a shared, Zed-derived editor platform.
 
